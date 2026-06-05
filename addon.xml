@@ -11,9 +11,11 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Clean Remove</summary>
 		<summary lang="lt_LT">Pilnai Pašalinti</summary>
+		<summary lang="zh_CN">彻底移除</summary>
 		<description lang="en_GB">Removes item from library and disk, together with fanart and subtitles. No more orphan files left behind after Remove from library</description>
 		<disclaimer lang="en_GB"></disclaimer>
 		<description lang="lt_LT">Ištrina iš bibliotekos ir disko ne tik video failus, bet ir plakatus su subtitrais. Nebelieka pašalinių failų po trynimo.</description>
+		<description lang="zh_CN">将条目从媒体库与磁盘一并删除，包含背景图、字幕文件。执行后不会残留孤立垃圾文件（区别仅从库移除）</description>
 		<language></language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
